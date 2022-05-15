@@ -1,3 +1,4 @@
+
 # Discord.py bot with commands extension
 
 Basic template for a discord bot with the commands extension and [cogs](https://discordpy.readthedocs.io/en/latest/ext/commands/cogs.html)
@@ -41,5 +42,6 @@ Go to [uptimerobot.com](https://uptimerobot.com/) and create an accout if you do
 
 Your bot should now be good to go, with near 100% uptime.
 
-
+## Working Prototype
+https://user-images.githubusercontent.com/92280449/168458881-714b91dd-b419-4416-91ab-a5702e7e4d3f.mp4
 
