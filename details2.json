@@ -1,0 +1,22 @@
+{
+  "data":[
+    {
+      "name":"david",
+      "qualifications":"python c c++ cp",
+      "username":"<@293690940340699138>",
+      "available":true
+    },
+    {
+      "name":"vyshnav",
+      "qualifications":"python js css html cp",
+      "username":"<@541592867521429504>",
+      "available":true
+    },
+    {
+      "name":"chaithanya",
+      "qualifications":"java flutter android",
+      "username":"<@917349628054237256>",
+      "available":true
+    }  
+  ]
+}

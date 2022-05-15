@@ -1,0 +1,11 @@
+
+      {
+        "c++": ["Aman", "kavya", "yash", "manoj"],
+        "java":["david", "vyshnav", "chaithanya", "aashray"],
+        "python":["shashank", "prashanth", "pranav", "pavithra"],
+        "android":["gautham", "rishav", "rajagopalan"],
+        "internship":["shashank", "abhijit", "anoushka", "lakshmi"],
+        "gsoc":["aman", "jaykrishnan", "yash arora", "anoushka"],
+        "cp":["kavya", "anshuman", "siddharth", "sushmanth"]
+      }
+
